@@ -1,0 +1,16 @@
+# pip install -r requirements.txt
+
+openai
+openai[datalib]
+pyaml
+faiss-cpu
+
+# talknizer
+tiktoken
+
+# LangChain
+langchain==0.0.350
+
+
+pyaml
+langchainhub
